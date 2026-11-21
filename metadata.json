@@ -1,0 +1,8 @@
+{
+  "name": "Saw2Sale Workshop Operations",
+  "description": "Custom furniture workshop order intake, quotation, materials, production queue, payments, and delivery operations console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
